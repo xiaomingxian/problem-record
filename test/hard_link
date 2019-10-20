@@ -1,8 +1,0 @@
-显示出 inode信息 硬连接的inode信心相同都是405884 软连接不同
-[root@localhost test]# ls -li
-总用量 8
-405884 -rw-r--r--. 2 root root 36 6月   4 10:46 0.hard_soft_link
-405884 -rw-r--r--. 2 root root 36 6月   4 10:46 hard_link
-405928 lrwxrwxrwx. 1 root root 16 6月   4 10:47 soft_link -> 0.hard_soft_link
-#同时删除原文件与所有硬连接 才是真正的删除
-#只删除原文件。 软连接回失效 / 硬连接不会
