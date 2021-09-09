@@ -7,4 +7,4 @@
 ``` brew install wget ```
 ### 安装npm 配置 vue
 <https://blog.csdn.net/qq_25284679/article/details/108604008><br/>
-<https://gitee.com/aqian666/blog?_from=gitee_search>
+项目:<https://gitee.com/aqian666/blog?_from=gitee_search>
