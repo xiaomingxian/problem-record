@@ -5,3 +5,5 @@
 ```
 ### 安装wget
 ``` brew install wget ```
+### 安装npm 配置 vue
+<https://blog.csdn.net/qq_25284679/article/details/108604008>
